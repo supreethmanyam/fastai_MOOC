@@ -1,1 +1,0 @@
-[Plant seedlings competition](https://www.kaggle.com/c/plant-seedlings-classification)
